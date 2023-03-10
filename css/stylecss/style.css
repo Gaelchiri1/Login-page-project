@@ -257,3 +257,13 @@ header {
     text-decoration: underline;
 }
 
+.icongit{
+    font-size: 45px;
+    margin-right: 6.2em;
+}
+.codigofuente{
+    position: absolute;
+    margin-right: 10em;
+    font-size: 10px;
+    color: #ffffff;
+}
